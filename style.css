@@ -1,0 +1,17 @@
+.meuNome, .descricao {
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  body {
+    background-color: antiquewhite;
+  }
+
+  .resido {
+    background-color: azure;
+  }
+
+  li {
+    font-size: 20px;
+    width: 200px;
+    color: red;   
+  }
