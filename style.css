@@ -8,6 +8,7 @@
 
   .resido {
     background-color: azure;
+    width: 100px;
   }
 
   li {
@@ -15,3 +16,21 @@
     width: 200px;
     color: red;   
   }
+
+#credenciais img {
+    position: absolute;
+    top: 100px;
+    border-radius: 50%;
+    width: 200px;
+    height: 170px;
+}
+
+#credenciais h1 {
+    text-align: center;
+}
+
+#credenciais p {
+    position: absolute;
+    left: 260px;
+}
+
